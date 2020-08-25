@@ -1,5 +1,5 @@
 """
-Author:		Fengyi
+Author:		Fengyi(Julie)
 Date Created:	08/23/2020
 Description:	This module is to create classes to support main code in Portfolio_
 				Programming.py.
