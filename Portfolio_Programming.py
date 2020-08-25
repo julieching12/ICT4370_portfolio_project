@@ -1,5 +1,5 @@
 """
-Author:		Fengyi
+Author:		Fengyi(Julie)
 Date Created:	08/08/2020
 Description:	The purpose of this program is to pull data from multiple csv textfiles, json
 				file, or input data for a investor and analyse his stock and bond performance. 
