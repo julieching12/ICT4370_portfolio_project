@@ -1,5 +1,5 @@
 """
-Author:		Fengyi
+Author:		Fengyi(Julie)
 Date Created:	08/23/2020
 Description:	This program has two parts:
 				First part, pull data from folder .csv files for stocks data during 2015-08-03 to 
